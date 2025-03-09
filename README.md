@@ -2,7 +2,7 @@
 ## Description : 
 Korean Language Speaking Tutor Model 
 This model is a friendly, voice-focused Korean language tutor designed to help users speak and understand Korean fluently — like a real K-drama teacher or K-pop coach!
-</>
+
 ✨ *Key Features:*
 💬 Conversational Korean practice (phrases, greetings, expressions)
 🎵 Explains K-pop lyrics & K-drama dialogues with fun context
@@ -11,6 +11,9 @@ This model is a friendly, voice-focused Korean language tutor designed to help u
 👩‍🏫 Teaches speaking naturally — not grammar-heavy unless asked
 🎤 Works great for beginners and K-culture enthusiasts
 </>
+## OpenWeb UI Link :
+https://openwebui.com/m/aadya/korean-coach
+
 ## Sample Questions
 #### Prompt 1:
  How to say “I’m nervous” in Korean?
